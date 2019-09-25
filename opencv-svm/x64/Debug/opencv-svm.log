@@ -1,0 +1,7 @@
+﻿  svmpredict.cpp
+d:\business\demotest\cpp\opencv-svm\opencv-svm\svmpredict.cpp(120): warning C4267: “参数”: 从“size_t”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+  opencv-svm.vcxproj -> D:\Business\DemoTEST\CPP\opencv-svm\x64\Debug\opencv-svm.exe
